@@ -1,7 +1,7 @@
 # Contenedores
 Pasos para Implementar un Contenedor en Docker y posterior subirlo a Azure App Services
 
-#Utilizando una Virtual Machine de Azure con Linux, instala Docker con los siguientes pasos:
+# Utilizando una Virtual Machine de Azure con Linux, instala Docker con los siguientes pasos:
 
 # Instalacion Docker en Ubuntu 22.04
 
